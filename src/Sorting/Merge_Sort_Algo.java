@@ -46,7 +46,7 @@ public class Merge_Sort_Algo {
 
 
     public static void printarray(int[] ar,int n){
-        for(int i = 0 ; i < n ; i++){
+        for(int i = 0 ; i < n ; i++){                        // Function to print array
             System.out.print(ar[i]+" ");
         }
         System.out.println();
